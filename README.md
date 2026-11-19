@@ -7,8 +7,9 @@ server are not required to run it.
 [Browse prereleases](https://github.com/fluytnet/fluyt_public/releases).
 Automated candidates are published as `v0.0.0-alpha.<run number>`. A prerelease
 may be used by the demo before it is recommended for general evaluation.
-**No recommended release has been selected yet.** Alpha releases are for
-controlled evaluation and carry no stable-version or general vendor-support claim.
+**Recommended for controlled evaluation: [v0.0.0-alpha.37](https://github.com/fluytnet/fluyt_public/releases/tag/v0.0.0-alpha.37).**
+This version passed the consolidated release and controlled demo-adoption checks.
+Alpha releases carry no stable-version or general vendor-support claim.
 
 | Platform | Asset |
 | --- | --- |
